@@ -1,11 +1,11 @@
 # Boiler Plate  
 
 ## 1. 개요
-> spring boot와 react로 구성된 기본 프로젝트 생성  
+> Spring Boot와 React로 구성된 기본 프로젝트 생성  
 
 ## 2. 구성
->   front-end: react <br/>
->   back-end: spring boot  
+>   front-end: React.js <br/>
+>   back-end: Spring Boot  
 
 ## 3. 프로젝트 구조  
 
